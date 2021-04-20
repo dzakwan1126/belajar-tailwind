@@ -1,4 +1,3 @@
-# The Idea
+# Build a Website with TailwindCSS
 
-Basic boilerplate to get started slicing so you don't need to think about configuration.
-
+For a demo Website you can see in this link: https://bit.ly/dzakwan-luxspace
